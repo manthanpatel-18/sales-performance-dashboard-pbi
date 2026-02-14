@@ -53,7 +53,8 @@ This dashboard provides a business-friendly view of:
 ```DAX
 Profit % = DIVIDE([Profit], [Sales])
 MoM Sales % = ([Current Month Sales] - [Previous Month Sales]) / [Previous Month Sales]
-LBS % = DIVIDE([LBS Count], [Total LBS])```
+LBS % = DIVIDE([LBS Count], [Total LBS])
+```
 
 ---
 ## 👤 Author
